@@ -8,8 +8,8 @@
 
 <div>
   <a href="https://github.com/ismaalves">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ismaalves&show_icons=true&theme=tokyonight&inlude_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaalves&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ismaalves&show_icons=true&theme=tokyonight&inlude_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaalves&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
 ## Tecnologias e Ferramentas
