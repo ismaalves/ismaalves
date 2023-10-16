@@ -1,8 +1,8 @@
 ## Salve!!! Eu sou Ismael Alves
 
 - Técnico em Informática
-- Graduando em Ciência de Dados e IA (4/8)
-- Estudando Análise de Dados
+- Graduando em Ciência de Dados e IA (6/8)
+- Estudando Visão Computacional
 
 ## GitHub Stats
 
